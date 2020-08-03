@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=void\ isEmpty()
+comment2.params=
+comment2.target=void\ isFull()
+comment3.params=
+comment3.target=void\ pop()
+comment4.params=
+comment4.target=void\ push()
+comment5.params=
+comment5.target=void\ peep()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ input()
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ extract()
+comment3.params=x
+comment3.target=int\ vowel(java.lang.String)
+comment4.params=y
+comment4.target=int\ word(java.lang.String)
+comment5.params=
+comment5.target=void\ display()
+comment6.params=
+comment6.target=void\ graph()
+numComments=7
